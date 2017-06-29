@@ -4,7 +4,7 @@
     "description": "Nhaccuatui API cho phép truy cập dữ liệu máy chủ NCT miễn phí",
     "keywords": ["sdk","api","nct","nhaccuatui","v2"],
     "homepage": "https://github.com/phuchptty/nct-api-v2",
-    "license": "MIT",
+    "license": "GNU",
     "authors": [
         {
             "name": "Phúc Phoenix",
