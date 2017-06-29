@@ -1,0 +1,7 @@
+{
+    "name": "phuchptty/nct-api-v2",
+    "description": "Cho phép truy cập kho dữ liệu máy chủ NhacCuaTui",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
+    }
+}
