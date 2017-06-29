@@ -1,7 +1,19 @@
 {
     "name": "phuchptty/nct-api-v2",
-    "description": "Cho phép truy cập kho dữ liệu máy chủ NhacCuaTui",
+    "type": "library",
+    "description": "Nhaccuatui API cho phép truy cập dữ liệu máy chủ NCT miễn phí",
+    "keywords": ["sdk","api","nct","nhaccuatui","v2"],
+    "homepage": "https://github.com/phuchptty/nct-api-v2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Phúc Phoenix",
+            "email": "phuc.px.371@gmail.com",
+            "homepage": "http://dhphuc.info",
+            "role": "Developer"
+        }
+    ],
     "require": {
-        "php": "^5.3.3 || ^7.0"
+        "php": ">= 5.2"
     }
 }
